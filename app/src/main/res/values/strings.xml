@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Suma2</string>
+    <string name="titulo"><b>Suma de dos numeros</b> </string>
+    <string name="n1"><b>Numero uno</b> </string>
+    <string name="n2"><b>Numero dos</b> </string>
+    <string name="resultado"><b>Resultado</b> </string>
+    <string name="Sumar"><b>sumar</b> </string>
+</resources>
